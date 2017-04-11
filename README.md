@@ -1,2 +1,7 @@
-# bSlider
-bSlider, the bSlider that everybody needs.
+bSlider
+=============
+
+The slider that everybody needs.
+
+Installation
+------------
